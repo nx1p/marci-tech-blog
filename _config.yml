@@ -31,6 +31,7 @@ footer: '<a href="https://marci.tech/">marci.tech</a>'
 header_pages:
   - index.md
 
+theme: jekyll-theme-console
 # Build settings theme: minima theme: jekyll-theme-console plugins: -
 #jekyll-feed
 
